@@ -10,7 +10,7 @@ Patch YouTube embed links with a proxy, letting you easily play restricted video
 
 1) Install [BetterDiscord](https://betterdiscord.app/) (**NOTE: This may be a violation of [Discord's TOS](https://discord.com/terms)**).
 2) In Discord, go to Settings->Plugins->Open Plugins Folder.
-3) Download [this plugin file](https://raw.githubusercontent.com/nathanfranke/discordytproxy/main/YouTubeProxy.plugin.js).
+3) Download [this plugin file](https://raw.githubusercontent.com/nathanfranke/discord-youtube-embed-fix/main/YouTubeEmbedFix.plugin.js).
 4) Copy that file to the folder you opened in step 2.
 5) Enable the plugin in Discord settings.
 
